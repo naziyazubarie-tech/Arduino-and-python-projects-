@@ -24,7 +24,7 @@ I designed a machine that shrinks polythene waste into a compact ball-like form,
 
 
 
-# Hilly Area Accident Prevention System
+# Eco light h8ghways 
 
 ## Problem
 Accidents in hilly and mountainous regions like Kashmir often occur due to poor visibility, sharp turns, and lack of warning systems.
@@ -39,7 +39,7 @@ I developed a sensor-based system using Arduino and coding to detect potential a
 ## Recognition
 - Presented at multiple exhibitions including Indore
 - Won awards and recognition for innovation and social impact
-
+- got recognised by India's top newspaper and got my name on it 
 ## Skills Used
 - Arduino
 - Sensors & embedded systems
